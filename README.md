@@ -1,6 +1,5 @@
 
   # Hi there, I'm [Abhishek Saini] 👋
-  **Full-Stack Developer**
 
   **I'll create a simple, beginner-friendly Personal Profile Card - perfect for learning HTML structure and CSS styling! It'll be clean, elegant, and easy to understand.**
 
