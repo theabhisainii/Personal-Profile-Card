@@ -12,7 +12,3 @@ Social links with hover effects
 Simple skill tags
 Clean, readable structure**
 
-  --
-
-  🔗 Live Demo: https://theabhisainii.github.io/Personal-Profile-Card/
-
